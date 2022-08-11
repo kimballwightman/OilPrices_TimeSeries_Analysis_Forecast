@@ -1,1 +1,1 @@
-# Oil-Prices-Time-Series-Analysis-Forecast
+# OilPrices_TimeSeries_Analysis_Forecast
